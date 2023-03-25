@@ -1,4 +1,9 @@
 # Asp.NetCoreApi_Identity_bug
+
+edit :
+not bug
+https://github.com/dotnet/aspnetcore/issues/47119
+
 explain bug in asp.net core WebApi with Entity framework core
 when test with ``` JwtBearerDefaults.AuthenticationScheme ``` get this
 ![image](https://user-images.githubusercontent.com/20041519/224171999-c8cf04d8-7cf7-4c32-a9d6-06cf8a7817c8.png)
